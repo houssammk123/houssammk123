@@ -5,11 +5,14 @@
   ► Replace the placeholders marked  <<...>>  with your real links.
 -->
 
+<!-- ===================== ANIMATED WAVING BANNER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12,16,20&height=200&section=header&text=Houssem%20Marrakchi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Flutter%20Developer%20%E2%80%A2%20Founder%20of%20HappyChef&descAlignY=58&descSize=18" alt="header" />
+
 <!-- ===================== HEADER / TYPING BANNER ===================== -->
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=F75C03&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Houssem;Full-Stack+%26+Flutter+Developer;Founder+of+HappyChef+%F0%9F%8D%B3;Building+apps+that+people+love" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&color=F75C03&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Houssem;Full-Stack+%26+Flutter+Developer;Founder+of+HappyChef+%F0%9F%8D%B3;Turning+ideas+into+real+apps;Always+building%2C+always+learning" alt="Typing SVG" />
 </a>
 
 <!-- Profile views + followers -->
@@ -21,6 +24,21 @@
 </p>
 
 </div>
+
+<!-- ===================== CONTRIBUTION GRAPHS (TOP / CENTER) ===================== -->
+<div align="center">
+
+<!-- Snake animation (requires the GitHub Action) -->
+<img src="https://raw.githubusercontent.com/houssammk123/houssammk123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<br/><br/>
+
+<!-- Animated contribution activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=houssammk123&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+
+</div>
+
+<br/>
 
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
@@ -85,22 +103,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=houssammk123&theme=tokyonight&hide_border=true" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=houssammk123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
-
-</div>
-
-<br/>
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<!-- This animation requires the GitHub Action below (see setup notes at bottom). -->
-<img src="https://raw.githubusercontent.com/houssammk123/houssammk123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
 </div>
 
 <br/>
@@ -110,9 +112,6 @@
 
 <div align="center">
 
-<a href="https://happychef.be">
-  <img src="https://img.shields.io/badge/Website-F75C03?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" />
-</a>
 <a href="mailto:info@happychef.be">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
@@ -127,5 +126,8 @@
 <div align="center">
   <i>⭐️ From <a href="https://github.com/houssammk123">houssammk123</a> — thanks for visiting!</i>
 </div>
+
+<!-- ===================== ANIMATED FOOTER WAVE ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12,16,20&height=120&section=footer&animation=fadeIn" alt="footer" />
 
 <!-- profile readme -->
