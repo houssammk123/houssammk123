@@ -6,7 +6,7 @@
 -->
 
 <!-- ===================== ANIMATED WAVING BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12,16,20&height=200&section=header&text=Houssem%20Marrakchi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Flutter%20Developer%20%E2%80%A2%20Founder%20of%20HappyChef&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=200&section=header&text=Houssem%20Marrakchi&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Flutter%20Developer%20%E2%80%A2%20Founder%20of%20HappyChef&descAlignY=58&descSize=18" alt="header" />
 
 <!-- ===================== HEADER / TYPING BANNER ===================== -->
 <div align="center">
@@ -128,6 +128,6 @@
 </div>
 
 <!-- ===================== ANIMATED FOOTER WAVE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12,16,20&height=120&section=footer&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=120&section=footer" alt="footer" />
 
 <!-- profile readme -->
