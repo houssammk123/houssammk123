@@ -96,12 +96,35 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=houssammk123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssammk123&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<!-- Core stats + top languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=houssammk123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=480" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssammk123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 
 <br/><br/>
 
+<!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=houssammk123&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+<br/>
+
+<!-- ===================== DETAILED STATS CARDS ===================== -->
+## 🧮 Detailed Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssammk123&theme=tokyonight" alt="profile details" width="100%" />
+
+<br/><br/>
+
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssammk123&theme=tokyonight" alt="repos per language" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssammk123&theme=tokyonight" alt="most commit language" />
+
+<br/><br/>
+
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=houssammk123&theme=tokyonight" alt="stats card" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=houssammk123&theme=tokyonight&utcOffset=1" alt="productive time" />
 
 </div>
 
