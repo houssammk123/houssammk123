@@ -97,7 +97,7 @@
 <div align="center">
 
 <!-- Core stats + top languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=houssammk123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=480" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=houssammk123&show_icons=true&theme=tokyonight&hide_border=true&card_width=480" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssammk123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 
 <br/><br/>
