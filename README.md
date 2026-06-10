@@ -23,7 +23,7 @@
 ### &nbsp;&nbsp;About
 
 > Full-stack & Flutter developer focused on building clean, reliable products.
-> Founder of **[HappyChef](https://happychef.be)** — a mobile app for food lovers.
+> **[HappyChef](https://happychef.be)** — a mobile app for food lovers.
 > Open to freelance work and collaboration.
 
 &nbsp;&nbsp;`Flutter` &nbsp; `Dart` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Firebase` &nbsp; `Clean Architecture`
