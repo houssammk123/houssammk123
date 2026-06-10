@@ -1,156 +1,78 @@
 <!--
-  GitHub Profile README for @houssammk123
-  ► Put this file in a repo named EXACTLY:  houssammk123
-  ► File must be named:  README.md
-  ► Replace the placeholders marked  <<...>>  with your real links.
+  GitHub Profile README for @houssammk123  (minimal / native style)
+  Accent color: #0969da  ·  Muted text: #8b949e
 -->
 
-<!-- ===================== ANIMATED WAVING BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=200&section=header&text=Houssem%20Marrakchi&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Flutter%20Developer%20%E2%80%A2%20Founder%20of%20HappyChef&descAlignY=58&descSize=18" alt="header" />
+<h1 align="center">Houssem Marrakchi</h1>
 
-<!-- ===================== HEADER / TYPING BANNER ===================== -->
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&color=F75C03&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Houssem;Full-Stack+%26+Flutter+Developer;Founder+of+HappyChef+%F0%9F%8D%B3;Turning+ideas+into+real+apps;Always+building%2C+always+learning" alt="Typing SVG" />
-</a>
-
-<!-- Profile views + followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=houssammk123&label=Profile%20views&color=F75C03&style=flat" alt="profile views" />
-  <a href="https://github.com/houssammk123?tab=followers">
-    <img src="https://img.shields.io/github/followers/houssammk123?label=Followers&style=social" alt="followers" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Full-Stack+%26+Flutter+Developer;Founder+of+HappyChef;Turning+ideas+into+real+products" alt="subtitle" />
   </a>
 </p>
 
-</div>
-
-<!-- ===================== CONTRIBUTION GRAPHS (TOP / CENTER) ===================== -->
-<div align="center">
-
-<!-- Snake animation (requires the GitHub Action) -->
-<img src="https://raw.githubusercontent.com/houssammk123/houssammk123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-<br/><br/>
-
-<!-- Animated contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=houssammk123&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=houssammk123&label=Views&color=0969da&style=flat" alt="views" />
+  <a href="https://github.com/houssammk123?tab=followers"><img src="https://img.shields.io/github/followers/houssammk123?label=Followers&style=flat&color=0969da" alt="followers" /></a>
+  <a href="https://www.linkedin.com/in/h0u554m/"><img src="https://img.shields.io/badge/LinkedIn-0969da?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:info@happychef.be"><img src="https://img.shields.io/badge/Email-8b949e?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
-## 👨‍💻 About Me
+### &nbsp;&nbsp;About
 
-- 🍳 &nbsp;I'm the founder & developer behind **[HappyChef](https://happychef.be)** — a Flutter app for food lovers.
-- 🔭 &nbsp;Currently building and scaling **HappyChef** and related mobile/web products.
-- 🌱 &nbsp;Always learning — clean architecture, state management, and great UX.
-- 💼 &nbsp;Open to **freelance & collaboration** — let's build something great.
-- 💬 &nbsp;Ask me about **Flutter, Dart, mobile apps, and full-stack development**.
-- 📫 &nbsp;Reach me at **info@happychef.be**
+> Full-stack & Flutter developer focused on building clean, reliable products.
+> Founder of **[HappyChef](https://happychef.be)** — a mobile app for food lovers.
+> Open to freelance work and collaboration.
+
+&nbsp;&nbsp;`Flutter` &nbsp; `Dart` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `Firebase` &nbsp; `Clean Architecture`
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+### &nbsp;&nbsp;Tech Stack
 
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,html,css,nodejs,firebase,git,github,vscode,figma&theme=dark" alt="tech stack" />
+</p>
 
 <br/>
 
-<!-- ===================== FEATURED PROJECT ===================== -->
-## 🚀 Featured Project — HappyChef
+### &nbsp;&nbsp;Featured Project
 
-<div align="center">
-
-| 🍳 **HappyChef** |
-|:--|
-| A Flutter-powered app for discovering recipes, ordering, and connecting food lovers. |
-| **Tech:** Flutter · Dart · Firebase |
-| 🌐 [happychef.be](https://happychef.be) &nbsp;•&nbsp; 📱 Mobile-first &nbsp;•&nbsp; ⚡ Built for speed |
-
-</div>
-
-> 💡 **Tip:** Pin your best repositories so they show up here too —
-> go to your profile → **Customize your pins** → select up to 6 repos.
+<p align="center">
+  <b><a href="https://happychef.be">🍳 HappyChef</a></b><br/>
+  A Flutter app for discovering recipes and connecting food lovers.<br/>
+  <sub>Flutter · Dart · Firebase &nbsp;•&nbsp; <a href="https://happychef.be">happychef.be</a></sub>
+</p>
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+### &nbsp;&nbsp;GitHub Stats
 
-<div align="center">
-
-<!-- Core stats + top languages -->
-<img height="170" src="https://github-readme-stats-houssam-s-projects9s.vercel.app/api?username=houssammk123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=480" alt="stats" />
-<img height="170" src="https://github-readme-stats-houssam-s-projects9s.vercel.app/api/top-langs/?username=houssammk123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="top languages" />
-
-<br/><br/>
-
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=houssammk123&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats-houssam-s-projects9s.vercel.app/api?username=houssammk123&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=8b949e&icon_color=0969da&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats-houssam-s-projects9s.vercel.app/api/top-langs/?username=houssammk123&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=8b949e&langs_count=6&count_private=true" alt="top languages" />
+</p>
 
 <br/>
 
-<!-- ===================== DETAILED STATS CARDS ===================== -->
-## 🧮 Detailed Stats
+### &nbsp;&nbsp;Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=houssammk123&bg_color=00000000&color=8b949e&line=0969da&point=0969da&area=true&hide_border=true&custom_title=" alt="activity graph" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssammk123&theme=tokyonight" alt="profile details" width="100%" />
-
-<br/><br/>
-
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssammk123&theme=tokyonight" alt="repos per language" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssammk123&theme=tokyonight" alt="most commit language" />
-
-<br/><br/>
-
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=houssammk123&theme=tokyonight" alt="stats card" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=houssammk123&theme=tokyonight&utcOffset=1" alt="productive time" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/houssammk123/houssammk123/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 <br/>
 
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/h0u554m/"><img src="https://img.shields.io/badge/LinkedIn-0969da?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:info@happychef.be"><img src="https://img.shields.io/badge/Email-8b949e?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://happychef.be"><img src="https://img.shields.io/badge/Website-0969da?style=flat&logo=googlechrome&logoColor=white" alt="website" /></a>
+</p>
 
-<div align="center">
-
-<a href="mailto:info@happychef.be">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://www.linkedin.com/in/h0u554m/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/houssammk123">houssammk123</a> — thanks for visiting!</i>
-</div>
-
-<!-- ===================== ANIMATED FOOTER WAVE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,12&height=120&section=footer" alt="footer" />
-
-<!-- profile readme -->
+<p align="center"><sub>Thanks for visiting 👋</sub></p>
