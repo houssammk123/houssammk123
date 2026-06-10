@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Full-Stack+%26+Flutter+Developer;Founder+of+HappyChef;Turning+ideas+into+real+products" alt="subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Full-Stack+%26+Flutter+Developer;Turning+ideas+into+real+products" alt="subtitle" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=houssammk123&label=Views&color=0969da&style=flat" alt="views" />
   <a href="https://github.com/houssammk123?tab=followers"><img src="https://img.shields.io/github/followers/houssammk123?label=Followers&style=flat&color=0969da" alt="followers" /></a>
   <a href="https://www.linkedin.com/in/h0u554m/"><img src="https://img.shields.io/badge/LinkedIn-0969da?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:info@happychef.be"><img src="https://img.shields.io/badge/Email-8b949e?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:houcemeddinemarrakchi@gmail.com"><img src="https://img.shields.io/badge/Email-8b949e?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <br/>
@@ -71,8 +71,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/h0u554m/"><img src="https://img.shields.io/badge/LinkedIn-0969da?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:info@happychef.be"><img src="https://img.shields.io/badge/Email-8b949e?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://happychef.be"><img src="https://img.shields.io/badge/Website-0969da?style=flat&logo=googlechrome&logoColor=white" alt="website" /></a>
+  <a href="mailto:houcemeddinemarrakchi@gmail.com"><img src="https://img.shields.io/badge/Email-8b949e?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <p align="center"><sub>Thanks for visiting 👋</sub></p>
